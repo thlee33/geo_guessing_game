@@ -1,6 +1,8 @@
 
 # Geo Guessing Game 게임  
 
+https://thlee33.github.io/geo_guessing_game/index.html 
+
 1. 프로젝트 개요  
 목적: 전 세계 위성 지도를 보고 해당 위치의 국가 또는 도시 이름을 맞히는 서바이벌 웹 게임.  
 기술 스택: HTML5, Vanilla CSS (Glassmorphism), JavaScript (ES6+), MapLibre GL JS (오픈소스 지도 라이브러리).  
@@ -26,6 +28,8 @@
 글래스모피즘: 반투명한 블러 배경과 가느다란 테두리를 사용한 카드 디자인.  
 반응형 레이아웃: 지도가 화면을 꽉 채우도록 구성하고, 맵 리사이징 최적화를 통해 로딩 시 잘림 현상 해결.  
 애니메이션: 틀렸을 때 화면이 흔들리는 쉐이크 효과 및 스테이지 전환 시 부드러운 지도 이동(flyTo).  
+
+![예시 그림](https://github.com/thlee33/geo_guessing_game/blob/main/demo.png)
 
 🌍🧭✨
 
